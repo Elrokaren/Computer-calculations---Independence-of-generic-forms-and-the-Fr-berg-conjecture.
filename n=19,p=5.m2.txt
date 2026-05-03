@@ -1,6 +1,5 @@
 
---Test för Hochster-Laksov två steg upp n=19, p=5
-
+-- Test used to verify the Fröberg conjecture in degree d+2, when n=19 and d=3.
 
 n=19;
 R=ZZ/5[x_1..x_n];
