@@ -1,5 +1,5 @@
 
---Test för Hochster-Laksov två steg upp n=19, p=5
+
 
 
 n=18;
